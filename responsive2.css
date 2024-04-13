@@ -1,0 +1,16 @@
+.search{
+    left:74px;
+}
+nav ul li a{
+    font-size:1.9rem;
+    width:105px;
+}
+#logo img{
+    right:194px;
+}
+.search form input {
+    width: 215px;
+}
+#login {
+    width: 112px;
+}
